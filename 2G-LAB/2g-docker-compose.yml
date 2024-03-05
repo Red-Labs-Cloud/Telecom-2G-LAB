@@ -4,8 +4,7 @@ services:
   ## OSMO-BSC
   image: rfs85dev/osmobsc
   environment: 
-    - ""
-
-  
+    - "IP_1=${IP_1}"
+    - "IP_2=${IP_2}"
 
 
