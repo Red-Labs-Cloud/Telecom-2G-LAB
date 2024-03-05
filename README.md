@@ -33,6 +33,8 @@ Configure your Cellular Network Infrastructure
 ## 4G V0LTE LAB
 
 - MME
+- MG-W
+- SG-W
 
 
 ## 5G NSA
