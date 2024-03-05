@@ -13,9 +13,13 @@ Configure your Cellular Network Infrastructure
 
 ## Dedicated IMS
 
+- P-CSCF
+- I-CSCF
+- S-CSCF
 
 ## 4G V0LTE LAB
 
+- MME
 
 
 ## 5G NSA
