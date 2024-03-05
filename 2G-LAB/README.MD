@@ -16,6 +16,8 @@ Configure a Osmocom Cellular Network Infrastructure
 - OsmoPCU - A packet control unit for GPRS/EDGE enabling the BTS.
 
 
+![image](img/RAN.png)
+
 ## Core
 - OsmoMSC - GSM/UMTS Mobile Switching Center with support for AoIP as well as IuCS. SCCPlite support is work in progress.
 - OsmoHLR - minimal implementation of a Home Location Register
