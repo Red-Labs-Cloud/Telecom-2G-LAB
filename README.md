@@ -2,7 +2,7 @@
 Configure your Cellular Network Infrastructure
 
 
-
+![image](2G-LAB/img/RFS_Telecom_Lab.png)
 
 ## 2G - GSM / GPRS LAB
 
