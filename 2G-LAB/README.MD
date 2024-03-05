@@ -1,5 +1,13 @@
 Configure a Osmocom Cellular Network Infrastructure
 
+
+
+
+![image](img/RFS_Telecom_Lab.png)
+
+
+
+
 ## RAN
 
 - OsmoBTS - A BTS implementation

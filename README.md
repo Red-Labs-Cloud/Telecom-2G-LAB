@@ -6,6 +6,10 @@ Configure your Cellular Network Infrastructure
 
 ## 2G - GSM / GPRS LAB
 
+- BTS using  BladeRF
+- BTS using TCP Queues
+- BTS Simulator
+- Dedicated APN
 
 ## Dedicated IMS
 
