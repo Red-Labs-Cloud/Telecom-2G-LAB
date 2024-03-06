@@ -1,14 +1,20 @@
 Configure a Osmocom Cellular Network Infrastructure
 
-
-
+## End User
+- SIP Phone
+- GSM Phone
+- Rogue Device
 
 ![image](img/RFS_Telecom_Lab.png)
 
 
 
-
 ## RAN
+
+Goal:
+1 - Configure 1 MSC
+2 - Configure 2 BSCs
+3 - Configure 3 BTSs per BSC
 
 - OsmoBTS - A BTS implementation
 - OsmoBSC - GSM Base Station Controller with support for many different BTS vendors and models attached via Abis (over E1 and IP).
