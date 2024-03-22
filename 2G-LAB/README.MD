@@ -7,6 +7,11 @@ Configure a Osmocom Cellular Network Infrastructure
 
 ![image](img/RFS_Telecom_Lab.png)
 
+- BTS using  BladeRF
+- BTS using TCP Queues
+- BTS Simulator
+- Dedicated APN
+
 
 
 ## RAN
