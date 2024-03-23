@@ -6,5 +6,6 @@ services:
   environment: 
     - "IP_1=${IP_1}"
     - "IP_2=${IP_2}"
+  ## OSMO-BTS
   image: rfs85dev/osmobts
 
