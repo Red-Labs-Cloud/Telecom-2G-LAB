@@ -7,6 +7,9 @@ Configure your Cellular Network Infrastructure
 ## 2G - GSM / GPRS LAB
 
 
+## 4G LAB
+
+- V0LTE
 
 ## 5G NSA
 
