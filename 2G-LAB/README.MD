@@ -35,7 +35,7 @@ Goal:
 - OsmoSTP - SS7 Transfer Point to connect MSC and BSC
 - OsmoMGW - Media GateWay to relay RTP streams
 
-
+![image](img/osmocom-cni.png)
 ## GPRS
 
 - OsmoSGSN - A Serving GPRS Support Node

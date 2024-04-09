@@ -10,6 +10,8 @@ Configure your Cellular Network Infrastructure
 ## 4G LAB
 
 - V0LTE
+- Dedicated EPC
+- SGWs
 
 ## 5G NSA
 
@@ -18,8 +20,3 @@ Configure your Cellular Network Infrastructure
 ## 5G SA
 
 
-
-## Diameter Security
-
-
-## SIP Security

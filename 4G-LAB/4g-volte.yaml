@@ -18,7 +18,7 @@ services:
       default:
         ipv4_address: ${MONGO_IP}
   webui:
-    image: rfs85dev/rfs5g-free5gc:latest
+    image: rfs85dev/rfs5g-webui:latest
     container_name: webui
     depends_on:
       - mongo
