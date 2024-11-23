@@ -8,17 +8,17 @@ Welcome to the Red Labs Cloud 2G Lab, a unique environment designed for hands-on
 
 ## Key Features
 
-Real-World Simulation: Experience a live 2G network with base stations, mobile devices, and core network elements.
-Security Focus: Explore 2G-specific vulnerabilities like man-in-the-middle attacks, eavesdropping, and denial-of-service.
-Open-Source Tools: Utilize Osmocom and Asterisk for network manipulation and analysis.
-Hands-On Learning: Conduct practical exercises on call interception, SMS spoofing, and location tracking.
-DevSecOps Integration: Learn how to automate security testing and integrate security practices into 2G development.
+- Real-World Simulation: Experience a live 2G network with base stations, mobile devices, and core network elements.
+- Security Focus: Explore 2G-specific vulnerabilities like man-in-the-middle attacks, eavesdropping, and denial-of-service.
+- Open-Source Tools: Utilize Osmocom and Asterisk for network manipulation and analysis.
+- Hands-On Learning: Conduct practical exercises on call interception, SMS spoofing, and location tracking.
+- DevSecOps Integration: Learn how to automate security testing and integrate security practices into 2G development.
 ## Benefits
 
-Enhanced Understanding: Gain a deep understanding of 2G network architecture, protocols, and security challenges.
-Practical Skills: Develop practical skills in penetration testing, vulnerability assessment, and secure development.
-Research and Innovation: Conduct research on 2G security, develop new security tools, and contribute to the open-source community.
-Telecom Security Expertise: Become an expert in telecom security and contribute to building more secure mobile networks.
+- Enhanced Understanding: Gain a deep understanding of 2G network architecture, protocols, and security challenges.
+- Practical Skills: Develop practical skills in penetration testing, vulnerability assessment, and secure development.
+- Research and Innovation: Research 2G security, develop new security tools and contribute to the open-source community.
+- Telecom Security Expertise: Become an expert in telecom security and contribute to building more secure mobile networks.
 ## Who Should Use It
 
 - Security researchers
@@ -36,6 +36,6 @@ Telecom Security Expertise: Become an expert in telecom security and contribute 
 
 ## Join the Club
 
-Join the Red Labs Cloud 2G Lab and contribute to a more secure mobile ecosystem.
+Join the Red Labs Cloud 2G Lab and contribute to a more secure mobile ecosystem. \
 
 Note: This lab is intended for educational and research purposes only. Any illegal activities are strictly prohibited.
